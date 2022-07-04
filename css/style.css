@@ -1,0 +1,39 @@
+
+.baslikortalama{
+    font-size:40px;;
+    color: crimson;
+    width: 405px; /*ortalanacak div genişliği*/
+    margin: auto; /*alt-üst(auto) sağ-sol(auto) boşluk olacak*/
+
+}
+.baslik{
+    font-size:40px;;
+    color: crimson;
+    width: 250px; /*ortalanacak div genişliği*/
+    margin: auto; /*alt-üst(auto) sağ-sol(auto) boşluk olacak*/
+}
+.ikincibaslik{
+    width: 300px;
+    margin: auto;
+    color: darkorange;
+}
+
+.linklerortalama{
+    font-weight: bold; /*yazıyı kalın font yapma */
+    width: 320px; /*ortalanacak div genişliği*/
+    margin:1em auto ; /*alt-üst(auto) sağ-sol(auto) boşluk olacak*/
+}
+ .paragraf{
+    /* margin-left: 30%; */
+    text-align: center; /* yazıyı ortalama*/
+    list-style-position:inside
+ }
+
+ .listelerortalama{
+    
+    list-style-position:inside
+ }
+.boyutlandirma img {
+    width: 300px;
+    height:300px;
+    }
